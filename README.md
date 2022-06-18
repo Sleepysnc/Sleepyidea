@@ -3,7 +3,7 @@ I'm Danialsnc!<img src="https://pin.it/1Vzthym" width="50"></h2>
 
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
+<img src="https://pin.it/1Vzthym" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
   
 <p><strong>Mechatronics Student.
 <br>A figure doing coding as a hobby.
