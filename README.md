@@ -78,7 +78,7 @@ class About extends Me {
 
 <hr></hr>
 
-<img src="laceymicallef.gif" href="https://github.com/Config51" width="700"/><br>
+<img src="coding gif.gif" href="https://github.com/Config51" width="700"/><br>
 <img src=""  width="700"/>
 
 </div>
