@@ -1,9 +1,9 @@
 # Sleepyidea
-I'm Danialsnc!<img src="https://pin.it/1Vzthym" width="50"></h2>
+I'm Danialsnc!<img src="HealthyJaggedEarwig-max-1mb.gif" width="50"></h2>
 
 <div align="center" width="50">
 
-<img src="HealthyJaggedEarwig-max-1mb.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
+<img src="" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
   
 <p><strong>Mechatronics Student.
 <br>A figure doing coding as a hobby.
