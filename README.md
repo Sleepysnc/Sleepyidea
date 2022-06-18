@@ -58,7 +58,7 @@ class About extends Me {
 }
 ```
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img width="15%" align="right" alt="Github Image" src="Luffy vs Naruto.gif" /><br>
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img width="15%" align="right" alt="Github Image" src="" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Electronics or Anything**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Danial Aiman](https://web.telegram.org/k/)**<br>
@@ -78,7 +78,7 @@ class About extends Me {
 
 <hr></hr>
 
-<img src="coding gif.gif" href="https://github.com/Config51" width="700"/><br>
+<img src="Luffy vs Naruto.gif" href="https://github.com/Config51" width="700"/><br>
 <img src=""  width="700"/>
 
 </div>
