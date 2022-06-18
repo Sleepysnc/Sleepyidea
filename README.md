@@ -78,7 +78,7 @@ class About extends Me {
 
 <hr></hr>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/Config51" width="700"/><br>
+<img src="laceymicallef.gif" href="https://github.com/Config51" width="700"/><br>
 <img src="laceymicallef.gif"  width="300"/>
 
 </div>
