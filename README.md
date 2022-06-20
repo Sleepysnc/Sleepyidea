@@ -6,7 +6,7 @@ I'm Danialsnc!<img src="HealthyJaggedEarwig-max-1mb.gif" width="50"></h2>
 <img src="coding gif.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
   
 <p><strong>Mechatronics Student.
-<br>A figure try to hustle as a student, a chef, a musician and a coder at night.
+<br>A figure try to hustle as a student, a barber, a chef, a musician and a coder at night.
 
 <!-- Nothing weird to see here -->
 <p align="center">
