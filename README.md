@@ -79,6 +79,6 @@ class About extends Me {
 <hr></hr>
 
 <img src="sakura-pixel-art.gif" href="https://github.com/Config51" width="700"/><br>
-<br>STRENGTH DOESN't REFINE BY SUCCESS, IT'S REFINE BY HOW YOU BOUNCE BACK WHEN YOU FAIL
+<br>STRENGTH DOESN'T REFINE BY SUCCESS, IT'S REFINE BY HOW YOU BOUNCE BACK WHEN YOU FAIL
 
 </div>
