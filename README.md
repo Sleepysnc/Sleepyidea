@@ -78,7 +78,7 @@ class About extends Me {
 
 <hr></hr>
 
-<img src="City view.webp" href="https://github.com/Config51" width="600"/><br>
+<img src="City view.webp" href="https://github.com/Config51" width="400"/><br>
 <img src=""  width="700"/>
 
 </div>
