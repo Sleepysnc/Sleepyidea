@@ -78,7 +78,7 @@ class About extends Me {
 
 <hr></hr>
 
-<img src="Luffy vs Naruto.gif" href="https://github.com/Config51" width="500"/><br>
+<img src="" href="https://github.com/Config51" width="500"/><br>
 <img src=""  width="700"/>
 
 </div>
