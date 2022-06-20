@@ -6,7 +6,7 @@ I'm Danialsnc!<img src="HealthyJaggedEarwig-max-1mb.gif" width="50"></h2>
 <img src="coding gif.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
   
 <p><strong>Mechatronics Student.
-<br>A figure doing coding as a hobby.
+<br>A student, a chef adn a coder.
 
 <!-- Nothing weird to see here -->
 <p align="center">
